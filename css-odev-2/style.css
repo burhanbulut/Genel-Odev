@@ -1,0 +1,51 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.btn-size{
+    size: 25px;
+}
+
+
+.bg-grey{
+    background-color: rgb(155, 151, 151);
+}
+
+.bg-cyan{
+    background-color: #7EE6DA;
+}
+
+.width-bar{
+    width: 1600px;
+    
+}
+
+.mg-1{
+    margin: 1px;
+}
+
+.pd-5{
+    padding-top: 20px;
+
+}
+
+.box{
+    width: 1600px;
+     
+        
+}
+
+.wd-2{
+    float: left;
+    width: 599px;
+    height: 100px;
+}
+
+.wd-3{
+    float: left;
+    width: 398px;
+    height: 100px;
+}
