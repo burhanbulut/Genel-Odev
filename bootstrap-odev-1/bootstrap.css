@@ -1,0 +1,27 @@
+article>span>h2{
+    color: orange;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+article>h1{
+    color: purple;
+    margin: 15px 0 25px 0;
+}
+
+article>span>p{
+    margin-left: 15px;    
+    margin-top: 5px;
+}
+
+body{
+    background-color: #E9ECEF;
+}
+
+.nav-item:hover{
+ /* text-shadow:  4px 4px 2px rgba(255, 255, 255, 1);*/
+    text-decoration:underline;
+    color: #555658;
+}
+
