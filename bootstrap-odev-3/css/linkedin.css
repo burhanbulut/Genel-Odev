@@ -1,0 +1,37 @@
+body {
+    background-color: #f3f2ef;
+  }
+
+.profile-pic-card{
+    border: 1px;
+    border-radius: 50%;
+}
+
+.card-radius{
+    border-radius: 50%;
+}
+
+.fs-12{
+    font-size: 12px;
+}
+
+.padding-b{
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.radius{
+
+    border-radius: 15px;
+}
+input.search-bg::placeholder{
+    
+  font-weight: bolder;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(img\search-solid.svg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
